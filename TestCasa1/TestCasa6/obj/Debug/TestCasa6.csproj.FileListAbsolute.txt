@@ -5,3 +5,10 @@ C:\Users\danie\source\repos\TestCasa1\TestCasa6\obj\Debug\TestCasa6.csproj.CoreC
 C:\Users\danie\source\repos\TestCasa1\TestCasa6\obj\Debug\TestCasa6.exe
 C:\Users\danie\source\repos\TestCasa1\TestCasa6\obj\Debug\TestCasa6.pdb
 C:\Users\danie\source\repos\TestCasa1\TestCasa6\obj\Debug\TestCasa6.csprojAssemblyReference.cache
+C:\Users\900076\Documents\Visual Studio 2019\Aula1turma1\TestCasa1\TestCasa6\bin\Debug\TestCasa6.exe.config
+C:\Users\900076\Documents\Visual Studio 2019\Aula1turma1\TestCasa1\TestCasa6\bin\Debug\TestCasa6.exe
+C:\Users\900076\Documents\Visual Studio 2019\Aula1turma1\TestCasa1\TestCasa6\bin\Debug\TestCasa6.pdb
+C:\Users\900076\Documents\Visual Studio 2019\Aula1turma1\TestCasa1\TestCasa6\obj\Debug\TestCasa6.csprojAssemblyReference.cache
+C:\Users\900076\Documents\Visual Studio 2019\Aula1turma1\TestCasa1\TestCasa6\obj\Debug\TestCasa6.csproj.CoreCompileInputs.cache
+C:\Users\900076\Documents\Visual Studio 2019\Aula1turma1\TestCasa1\TestCasa6\obj\Debug\TestCasa6.exe
+C:\Users\900076\Documents\Visual Studio 2019\Aula1turma1\TestCasa1\TestCasa6\obj\Debug\TestCasa6.pdb
