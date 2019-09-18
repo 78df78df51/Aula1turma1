@@ -1,0 +1,12 @@
+C:\Users\danie\source\repos\TestCasa1\TestCasa7\bin\Debug\TestCasa7.exe.config
+C:\Users\danie\source\repos\TestCasa1\TestCasa7\bin\Debug\TestCasa7.exe
+C:\Users\danie\source\repos\TestCasa1\TestCasa7\bin\Debug\TestCasa7.pdb
+C:\Users\danie\source\repos\TestCasa1\TestCasa7\obj\Debug\TestCasa7.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\TestCasa1\TestCasa7\obj\Debug\TestCasa7.exe
+C:\Users\danie\source\repos\TestCasa1\TestCasa7\obj\Debug\TestCasa7.pdb
+C:\Users\900076\Documents\Visual Studio 2019\Aula1turma1\TestCasa1\TestCasa7\bin\Debug\TestCasa7.exe.config
+C:\Users\900076\Documents\Visual Studio 2019\Aula1turma1\TestCasa1\TestCasa7\bin\Debug\TestCasa7.exe
+C:\Users\900076\Documents\Visual Studio 2019\Aula1turma1\TestCasa1\TestCasa7\bin\Debug\TestCasa7.pdb
+C:\Users\900076\Documents\Visual Studio 2019\Aula1turma1\TestCasa1\TestCasa7\obj\Debug\TestCasa7.csproj.CoreCompileInputs.cache
+C:\Users\900076\Documents\Visual Studio 2019\Aula1turma1\TestCasa1\TestCasa7\obj\Debug\TestCasa7.exe
+C:\Users\900076\Documents\Visual Studio 2019\Aula1turma1\TestCasa1\TestCasa7\obj\Debug\TestCasa7.pdb
