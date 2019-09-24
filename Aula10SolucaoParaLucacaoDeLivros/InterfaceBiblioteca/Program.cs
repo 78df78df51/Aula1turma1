@@ -46,6 +46,7 @@ namespace InterfaceBiblioteca
 				Console.WriteLine("4 - Trocar usuário");
 				Console.WriteLine("5 - Cadastrar usuário");
 				Console.WriteLine("6 - Remover usuário");
+				Console.WriteLine("7 - Remover livro");
 				Console.WriteLine("0 - Sair");
 
 				opcao = Console.ReadLine();
@@ -72,6 +73,9 @@ namespace InterfaceBiblioteca
 					case "6":
 						RemoverUsuarioPeloID();
 						break;
+					case "7":
+						RemoverLivro();
+						break;
 					case "0":
 						Console.Clear();
 						Console.WriteLine("Saindo... até a próxima ");
@@ -85,6 +89,19 @@ namespace InterfaceBiblioteca
 		/// como solicitaçao de login e senha
 		/// </summary>
 		/// <returns>Retorna verdadeiro quando o login e senha informdas estiverem corretas</returns>
+		private static void RemoverLivro()
+		{
+			Console.WriteLine("Remover um livro do sistema");
+			MostrarLivros();
+			Console.WriteLine("Informe o ID para desativar do sistema");
+			var livroId = int.Parse(Console.ReadLine());
+
+			livrosController.RemoverLivroPorID(livroId);
+
+			Console.WriteLine("Livro removido com sucesso");
+			Console.ReadKey();
+
+		}
 		private static void RemoverUsuarioPeloID(){
 			Console.WriteLine("Remover um usuario pelo ID no sistema");
 			MostrarUsuarios();
@@ -177,14 +194,14 @@ namespace InterfaceBiblioteca
         }
         private static void MostrarLivros()
         {
-            livrosController.RetornaListaDeLivros().ForEach(item => Console.WriteLine($"Nome do livro:{item.Nome}"));
+            livrosController.RetornaListaDeLivros().ForEach(item => Console.WriteLine($"ID do livro {item.Id} Nome do livro:{item.Nome}"));
             //Para cada livro cadastrado temos a demostração no console por esta parte
             // Console.WriteLine($"Nome do livro:{i.Nome}"));
             Console.ReadKey();
         }
 		private static void ListarLivros()
 		{
-			livrosController.RetornaListaDeLivros().ForEach(i => Console.WriteLine($"{i.Nome}"));
+			livrosController.RetornaListaDeLivros().ForEach(i => Console.WriteLine($"Id{i.Id} e nome:  {i.Nome}"));
 			Console.ReadKey();
 			MostraMenuSistema();
 			/*{

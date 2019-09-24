@@ -15,25 +15,10 @@ namespace LocacaoBiblioteca.Controller {
     ///senha: admin
     /// ///</sumary>
     {
-		private int IdContador = 0;
+		private LocacaoContext contextDB = new LocacaoContext();
 		public UsuarioController()
 		{
-			//cria dois usuarios igual os dois livros
-			ListaDeUsuarios = new List<Usuario>();
-
-			ListaDeUsuarios.Add(new Usuario()
-			{
-				Id = IdContador++,
-				Login = "admin",
-				Senha = "admin"
-			});
-			ListaDeUsuarios.Add(new Usuario()
-			{
-				Id = IdContador++,
-				Login = "man",
-				Senha = "1234"
-
-			});
+			
 		}
 		public bool LoginSistema(Usuario usuarios)
         {
@@ -47,16 +32,17 @@ namespace LocacaoBiblioteca.Controller {
             x.Senha == usuarios.Senha);
 
         }
-		private List<Usuario> ListaDeUsuarios { get; set; }
+
+
 		public void AdicionarUsuario(Usuario parametroUsuario)
 		{
-			parametroUsuario.Id = IdContador++;
-			ListaDeUsuarios.Add(parametroUsuario);
+			parametroUsuario.Id = contextDB.IdContadorUsuarios++;
+			contextDB.ListaDeUsuarios.Add(parametroUsuario);
 		
 		}
 		public List<Usuario> RetornaListaDeUsuarios()
 		{
-			return ListaDeUsuarios.Where(x =>x.Ativo).ToList<Usuario>();
+			return contextDB.ListaDeUsuarios.Where(x =>x.Ativo).ToList<Usuario>();
 		}
 		/// <summary>
 		/// Metodo que desativa um registro de usuario cadastrado em nossa lista
@@ -66,7 +52,7 @@ namespace LocacaoBiblioteca.Controller {
 		{
 			//aqui usamos o metodo firstOrDefaul para localizar nosso usuario dentro da lista
 			//com isso conseguimos acessar as propriedade dele e desativar o registro
-			ListaDeUsuarios.FirstOrDefault(x => x.Id == identificadoID).Ativo = false;
+			contextDB.ListaDeUsuarios.FirstOrDefault(x => x.Id == identificadoID).Ativo = false;
 		}
 	}
  }
