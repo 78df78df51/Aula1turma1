@@ -4,10 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LibraryVendas.Model
+namespace LibraryVendas.Vendas
 {
 	public class Venda
-	{ 
-		///estrutura
-	}
+	{
+        public int Id { get; set; }
+        public string Carro { get; set; }
+        public double Valor { get; set; }
+        public int Quantidade { get; set; }
+        public DateTime Data { get; set; }
+        public bool Ativo { get; set; }
+    }
 }
