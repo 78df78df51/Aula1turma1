@@ -1,0 +1,24 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace RevisandoEntity.Model
+{
+	//Inicialmente devemos deixar a classe publica
+	public class Cerveja
+	{
+
+		[Key]
+		public int Id { get; set; }
+		[StringLength(50)]
+		[Required]//campo obrigatorio
+		public string Nome { get; set; }
+		[StringLength(30)]
+		public string Tipo { get; set; }
+		public double Teor { get; set; }
+
+	}
+}
