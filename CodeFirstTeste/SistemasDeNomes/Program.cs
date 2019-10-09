@@ -1,16 +1,17 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.Entity;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using CodeFirstTeste.Model;
 using CodeFirstTeste.Controller;
+using CodeFirstTeste.Model;
 
 namespace SistemasDeNomes
 {
 	class Program
 	{
-		
+			
 			static NomesController pessoa = new NomesController();
 
 			static void Main(string[] args)
@@ -51,7 +52,8 @@ namespace SistemasDeNomes
 						case "0":
 							Console.WriteLine("Saindo... até a próxima ");
 							Console.ReadKey();
-							break;
+							escolha = 0;
+							break ;
 					}
 				}
 			}

@@ -1,16 +1,17 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.Entity;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace LocacaoBiblioteca.Model
 {
-	public class LocacaoContext
+	public class LocacaoContext :DbContext
 	{
-		public int IdContadorLivros  { get; set; } =  1;
-		public int IdContadorUsuarios { get; set; } = 1;
-		public LocacaoContext()
+		/*public int IdContadorLivros  { get; set; } =  1;
+		public int IdContadorUsuarios { get; set; } = 1;*/
+		/*public LocacaoContext()
 		{
 			ListaDeLivros = new List<Livros>();
 			//criamos uma lista de usuarios em memoria
@@ -46,9 +47,9 @@ namespace LocacaoBiblioteca.Model
 				Senha = "123"
 			});
 
-		}
-		public List<Livros> ListaDeLivros { get; set; }
+		}*/
+		public DbSet<Livros> ListaDeLivros { get; set; }
 
-		public List<Usuario> ListaDeUsuarios { get; set; }
+		public DbSet<Usuario> ListaDeUsuarios { get; set; }
 	}
 }

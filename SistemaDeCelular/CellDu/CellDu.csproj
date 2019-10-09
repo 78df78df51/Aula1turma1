@@ -5,10 +5,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{004D3622-E587-40F1-859D-54505139B191}</ProjectGuid>
+    <ProjectGuid>{052A8D6E-3FD8-4A6A-B8EE-AB32730E964E}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>SistemasDeNomes</RootNamespace>
-    <AssemblyName>SistemasDeNomes</AssemblyName>
+    <RootNamespace>CellDu</RootNamespace>
+    <AssemblyName>CellDu</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -45,7 +45,6 @@
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
-    <Reference Include="System.Data.Entity" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -62,9 +61,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\CodeFirstTeste\ListandoNomes.csproj">
-      <Project>{4f62bdf5-1700-4c24-8c5b-5c8474f3e742}</Project>
-      <Name>ListandoNomes</Name>
+    <ProjectReference Include="..\CatalogoCelulares\CatalogoCelulares.csproj">
+      <Project>{fb2bd2d2-024e-494f-8bdc-00fe72893cd1}</Project>
+      <Name>CatalogoCelulares</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

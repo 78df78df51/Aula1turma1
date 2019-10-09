@@ -96,11 +96,12 @@ namespace InterfaceBiblioteca
 			Console.WriteLine("Informe o ID para desativar do sistema");
 			var livroId = int.Parse(Console.ReadLine());
 
-			livrosController.RemoverLivroPorID(livroId);
-
-			Console.WriteLine("Livro removido com sucesso");
+			var livroRemover = livrosController.RemoverLivros(livroId);
+			if (livroRemover)
+				Console.WriteLine("Livro removido com sucesso");
+			else
+				Console.WriteLine("ID do livro incorreto");
 			Console.ReadKey();
-
 		}
 		private static void RemoverUsuarioPeloID(){
 			Console.WriteLine("Remover um usuario pelo ID no sistema");
@@ -122,20 +123,21 @@ namespace InterfaceBiblioteca
 			//"livroController" livros controle e nosso "objeto" em memoria
 			//com isso temos disponivel nele ferramentas que nos ajudam a realizar as tarefas
 			//como adicionar um item a nossa lista de livros
-
-			livrosController.AdicionarLivro(new Livros()
-			{
-				//Aqui "Atribuimos" o nome que demos ao livro na propriedade Nome de nosso livro
+			var livroNome = livrosController.InserirLivros (new Livros()
+	
+			{   //Aqui "Atribuimos" o nome que demos ao livro na propriedade Nome de nosso livro
 				//com o sinal de panes "=" temos atribuição, passagem de valor
 				Nome = nomeDoLivro
 			});
+			 if (livroNome)
 			//indico que finalizamos o processo de cadastro do livro, assim o usuario já sabe
 			//que o mesmo foi realizaod e sem erros
-			Console.WriteLine("Livro cadastrado com sucesso!");
+				Console.WriteLine("Livro cadastrado com sucesso!");
+			 else
+				Console.WriteLine("Livro não cadastrado");
 			//ReadKey apenas para que ele visualize esta informação.
 			Console.ReadKey();
 		}
-
 		private static void AdicionarUsuario()
 		{
 			//identificamos uqe o mesmo esta na parte de cadastro de livros do sistema
@@ -194,14 +196,15 @@ namespace InterfaceBiblioteca
         }
         private static void MostrarLivros()
         {
-            livrosController.RetornaListaDeLivros().ForEach(item => Console.WriteLine($"ID do livro {item.Id} Nome do livro:{item.Nome}"));
+            livrosController.GetLivros().ForEach(item => Console.WriteLine($"ID do livro {item.Id} Nome do livro:{item.Nome}"));
             //Para cada livro cadastrado temos a demostração no console por esta parte
             // Console.WriteLine($"Nome do livro:{i.Nome}"));
             Console.ReadKey();
         }
 		private static void ListarLivros()
 		{
-			livrosController.RetornaListaDeLivros().ForEach(i => Console.WriteLine($"Id{i.Id} e nome:  {i.Nome}"));
+			livrosController.GetLivros().ToList().ForEach(p => Console.WriteLine(p.Nome));
+
 			Console.ReadKey();
 			MostraMenuSistema();
 			/*{
