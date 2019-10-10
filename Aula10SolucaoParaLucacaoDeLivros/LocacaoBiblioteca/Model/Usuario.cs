@@ -9,22 +9,17 @@ namespace LocacaoBiblioteca.Model
 {
     public class Usuario
     {
-		public static object Usuarios { get; set; }
 		[Key]
 		public   int Id { get; set; }
 		[MaxLength(30)]
 		[Required]
 		public string Login { get; set; }
-
-        public string Senha { get; set; }
+		public string Senha { get; set; }
 		public bool Ativo { get; set; } = true;
         public int UsuarioCriacao { get; set; }
         public int UsuarioAlteracao { get; set; }
-        public DateTime DataAlteracao { get; set; }
-
-		public static void AdicionarUsuario(Usuario usuario)
-		{
-			throw new NotImplementedException();
-		}
+		//necessario para autocriação de usuario "admin"
+		public DateTime DataCriacao { get; set; } = DateTime.Now;
+		public DateTime DataAlteracao { get; set; } = DateTime.Now;
 	}
 }

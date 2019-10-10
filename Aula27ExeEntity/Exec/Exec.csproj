@@ -5,10 +5,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5DD6852B-3C85-4CB5-8409-AA87AF5FE9C0}</ProjectGuid>
+    <ProjectGuid>{4B2D98B9-0940-49FF-B183-5FD639999336}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>InterfaceBiblioteca</RootNamespace>
-    <AssemblyName>InterfaceBiblioteca</AssemblyName>
+    <RootNamespace>Exec</RootNamespace>
+    <AssemblyName>Exec</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -53,7 +53,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="livros.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -62,9 +61,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\LocacaoBiblioteca\LocacaoBiblioteca.csproj">
-      <Project>{9a47d88a-a870-4023-852c-ce5bb0d8455f}</Project>
-      <Name>LocacaoBiblioteca</Name>
+    <ProjectReference Include="..\Entity\Entity.csproj">
+      <Project>{b2ceb0b4-fa92-43b2-8e11-faef7e5d383d}</Project>
+      <Name>Entity</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
