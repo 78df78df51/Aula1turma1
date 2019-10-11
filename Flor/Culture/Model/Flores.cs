@@ -5,14 +5,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Entity.Model
+namespace Culture.Model
 {
-	public class NomePessoa
+	public class Flores
 	{
 		[Key]
 		public int Id { get; set; }
 		[MaxLength(30)]
 		[Required]
 		public string Nome { get; set; }
+		public int Quantidade { get; set; }
 	}
 }

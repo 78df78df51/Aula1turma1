@@ -5,14 +5,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Entity.Model
+namespace ColecaoBikes.Model
 {
-	public class NomePessoa
+	public class Bike
 	{
 		[Key]
 		public int Id { get; set; }
-		[MaxLength(30)]
-		[Required]
-		public string Nome { get; set; }
+		public string Modelo { get; set; }
+		public string Marca { get; set; }
+		public double Valor { get; set; }
+		public bool Ativo { get; set; } = true;
 	}
 }
