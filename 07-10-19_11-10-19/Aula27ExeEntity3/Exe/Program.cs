@@ -21,7 +21,7 @@ namespace Exe
 				Console.WriteLine("1 - Inserir Bicicletas");
 				Console.WriteLine("2 - Listar Bicicletas");
 				Console.WriteLine("3 - Atualizar uma Bicicleta");
-				Console.WriteLine("4 - Total de Flores");
+				Console.WriteLine("4 - Remover uma Bicicleta");
 				Console.WriteLine("0 - Sair");
 
 				opcao = Console.ReadLine();
@@ -37,7 +37,7 @@ namespace Exe
 						AtualizarBike();
 						break;
 					case "4":
-						
+						RemoverBike();
 						break;
 					case "0":
 						Console.Clear();
@@ -91,6 +91,20 @@ namespace Exe
 				Console.WriteLine("Sucesso!!!!!!!!!!!!");
 			else
 				Console.WriteLine("Erro!!!!!!");
+			Console.ReadKey();
+		}
+		private static void RemoverBike()
+		{
+			Console.WriteLine("Remover uma Bicicleta do sistema");
+			ListaBikes();
+			Console.WriteLine("Informe o ID para desativar do sistema");
+			var bikeId = int.Parse(Console.ReadLine());
+
+			var bikeRemover = context.RemoverBike(bikeId);
+			if (bikeRemover)
+				Console.WriteLine("Bicicleta removida com sucesso");
+			else
+				Console.WriteLine("ID da Bicicleta incorreto");
 			Console.ReadKey();
 		}
 	}
