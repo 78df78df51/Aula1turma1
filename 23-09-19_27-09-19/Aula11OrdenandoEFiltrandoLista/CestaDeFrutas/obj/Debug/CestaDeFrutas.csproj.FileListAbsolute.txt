@@ -1,0 +1,7 @@
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula11OrdenandoEFiltrandoLista\CestaDeFrutas\bin\Debug\CestaDeFrutas.exe.config
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula11OrdenandoEFiltrandoLista\CestaDeFrutas\bin\Debug\CestaDeFrutas.exe
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula11OrdenandoEFiltrandoLista\CestaDeFrutas\bin\Debug\CestaDeFrutas.pdb
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula11OrdenandoEFiltrandoLista\CestaDeFrutas\obj\Debug\CestaDeFrutas.csprojAssemblyReference.cache
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula11OrdenandoEFiltrandoLista\CestaDeFrutas\obj\Debug\CestaDeFrutas.csproj.CoreCompileInputs.cache
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula11OrdenandoEFiltrandoLista\CestaDeFrutas\obj\Debug\CestaDeFrutas.exe
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula11OrdenandoEFiltrandoLista\CestaDeFrutas\obj\Debug\CestaDeFrutas.pdb

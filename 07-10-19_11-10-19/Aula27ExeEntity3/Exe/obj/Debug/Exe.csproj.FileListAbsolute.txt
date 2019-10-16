@@ -1,0 +1,14 @@
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Aula27ExeEntity3\Exe\bin\Debug\Exe.exe.config
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Aula27ExeEntity3\Exe\bin\Debug\Exe.exe
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Aula27ExeEntity3\Exe\bin\Debug\Exe.pdb
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Aula27ExeEntity3\Exe\bin\Debug\ColecaoBikes.dll
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Aula27ExeEntity3\Exe\bin\Debug\EntityFramework.dll
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Aula27ExeEntity3\Exe\bin\Debug\ColecaoBikes.pdb
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Aula27ExeEntity3\Exe\bin\Debug\ColecaoBikes.dll.config
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Aula27ExeEntity3\Exe\bin\Debug\EntityFramework.xml
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Aula27ExeEntity3\Exe\obj\Debug\Exe.csprojAssemblyReference.cache
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Aula27ExeEntity3\Exe\obj\Debug\Exe.csproj.CopyComplete
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Aula27ExeEntity3\Exe\obj\Debug\Exe.exe
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Aula27ExeEntity3\Exe\obj\Debug\Exe.pdb
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Aula27ExeEntity3\Exe\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Aula27ExeEntity3\Exe\bin\Debug\EntityFramework.SqlServer.xml

@@ -1,0 +1,11 @@
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Aula27ExeEntity3\ColecaoBikes\obj\Debug\ColecaoBikes.csprojAssemblyReference.cache
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Aula27ExeEntity3\ColecaoBikes\bin\Debug\ColecaoBikes.dll.config
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Aula27ExeEntity3\ColecaoBikes\bin\Debug\ColecaoBikes.dll
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Aula27ExeEntity3\ColecaoBikes\bin\Debug\ColecaoBikes.pdb
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Aula27ExeEntity3\ColecaoBikes\bin\Debug\EntityFramework.dll
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Aula27ExeEntity3\ColecaoBikes\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Aula27ExeEntity3\ColecaoBikes\bin\Debug\EntityFramework.xml
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Aula27ExeEntity3\ColecaoBikes\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Aula27ExeEntity3\ColecaoBikes\obj\Debug\ColecaoBikes.csproj.CopyComplete
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Aula27ExeEntity3\ColecaoBikes\obj\Debug\ColecaoBikes.dll
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Aula27ExeEntity3\ColecaoBikes\obj\Debug\ColecaoBikes.pdb

@@ -1,0 +1,6 @@
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula13FuncoesLinq\SumLinq\bin\Debug\SumLinq.exe.config
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula13FuncoesLinq\SumLinq\bin\Debug\SumLinq.exe
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula13FuncoesLinq\SumLinq\bin\Debug\SumLinq.pdb
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula13FuncoesLinq\SumLinq\obj\Debug\SumLinq.csprojAssemblyReference.cache
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula13FuncoesLinq\SumLinq\obj\Debug\SumLinq.exe
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula13FuncoesLinq\SumLinq\obj\Debug\SumLinq.pdb

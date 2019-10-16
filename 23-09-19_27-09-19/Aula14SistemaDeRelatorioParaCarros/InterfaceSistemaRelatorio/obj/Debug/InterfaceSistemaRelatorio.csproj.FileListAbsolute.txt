@@ -1,0 +1,9 @@
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula14SistemaDeRelatorioParaCarros\InterfaceSistemaRelatorio\bin\Debug\InterfaceSistemaRelatorio.exe.config
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula14SistemaDeRelatorioParaCarros\InterfaceSistemaRelatorio\bin\Debug\InterfaceSistemaRelatorio.exe
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula14SistemaDeRelatorioParaCarros\InterfaceSistemaRelatorio\bin\Debug\InterfaceSistemaRelatorio.pdb
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula14SistemaDeRelatorioParaCarros\InterfaceSistemaRelatorio\bin\Debug\SistemaRelatorio.dll
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula14SistemaDeRelatorioParaCarros\InterfaceSistemaRelatorio\bin\Debug\SistemaRelatorio.pdb
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula14SistemaDeRelatorioParaCarros\InterfaceSistemaRelatorio\obj\Debug\InterfaceSistemaRelatorio.csprojAssemblyReference.cache
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula14SistemaDeRelatorioParaCarros\InterfaceSistemaRelatorio\obj\Debug\InterfaceSistemaRelatorio.csproj.CopyComplete
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula14SistemaDeRelatorioParaCarros\InterfaceSistemaRelatorio\obj\Debug\InterfaceSistemaRelatorio.exe
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula14SistemaDeRelatorioParaCarros\InterfaceSistemaRelatorio\obj\Debug\InterfaceSistemaRelatorio.pdb

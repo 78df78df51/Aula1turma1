@@ -1,0 +1,11 @@
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Flor\Culture\bin\Debug\Culture.dll.config
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Flor\Culture\bin\Debug\Culture.dll
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Flor\Culture\bin\Debug\Culture.pdb
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Flor\Culture\bin\Debug\EntityFramework.dll
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Flor\Culture\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Flor\Culture\bin\Debug\EntityFramework.xml
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Flor\Culture\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Flor\Culture\obj\Debug\Culture.csprojAssemblyReference.cache
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Flor\Culture\obj\Debug\Culture.csproj.CopyComplete
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Flor\Culture\obj\Debug\Culture.dll
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Flor\Culture\obj\Debug\Culture.pdb

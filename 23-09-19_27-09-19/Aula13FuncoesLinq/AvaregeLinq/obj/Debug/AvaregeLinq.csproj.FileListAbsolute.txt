@@ -1,0 +1,6 @@
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula13FuncoesLinq\AvaregeLinq\bin\Debug\AvaregeLinq.exe.config
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula13FuncoesLinq\AvaregeLinq\bin\Debug\AvaregeLinq.exe
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula13FuncoesLinq\AvaregeLinq\bin\Debug\AvaregeLinq.pdb
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula13FuncoesLinq\AvaregeLinq\obj\Debug\AvaregeLinq.csprojAssemblyReference.cache
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula13FuncoesLinq\AvaregeLinq\obj\Debug\AvaregeLinq.exe
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula13FuncoesLinq\AvaregeLinq\obj\Debug\AvaregeLinq.pdb

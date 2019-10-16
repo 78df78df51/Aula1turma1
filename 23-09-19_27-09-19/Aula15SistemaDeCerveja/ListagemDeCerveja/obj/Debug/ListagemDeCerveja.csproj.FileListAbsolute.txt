@@ -1,0 +1,5 @@
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Aula15SistemaDeCerveja\ListagemDeCerveja\bin\Debug\ListagemDeCerveja.dll
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Aula15SistemaDeCerveja\ListagemDeCerveja\bin\Debug\ListagemDeCerveja.pdb
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Aula15SistemaDeCerveja\ListagemDeCerveja\obj\Debug\ListagemDeCerveja.dll
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Aula15SistemaDeCerveja\ListagemDeCerveja\obj\Debug\ListagemDeCerveja.pdb
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Aula15SistemaDeCerveja\ListagemDeCerveja\bin\Debug\ListagemDeCerveja.xml

@@ -1,0 +1,11 @@
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula27ExeEntity\Entity\bin\Debug\Entity.dll.config
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula27ExeEntity\Entity\bin\Debug\Entity.dll
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula27ExeEntity\Entity\bin\Debug\Entity.pdb
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula27ExeEntity\Entity\bin\Debug\EntityFramework.dll
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula27ExeEntity\Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula27ExeEntity\Entity\bin\Debug\EntityFramework.xml
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula27ExeEntity\Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula27ExeEntity\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula27ExeEntity\Entity\obj\Debug\Entity.csproj.CopyComplete
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula27ExeEntity\Entity\obj\Debug\Entity.dll
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula27ExeEntity\Entity\obj\Debug\Entity.pdb

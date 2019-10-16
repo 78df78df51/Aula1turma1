@@ -1,0 +1,10 @@
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\DllPastaWin\InterfaceListagem\bin\Debug\InterfaceListagem.exe.config
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\DllPastaWin\InterfaceListagem\bin\Debug\InterfaceListagem.exe
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\DllPastaWin\InterfaceListagem\bin\Debug\InterfaceListagem.pdb
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\DllPastaWin\InterfaceListagem\bin\Debug\DllPastaWin.dll
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\DllPastaWin\InterfaceListagem\bin\Debug\DllPastaWin.pdb
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\DllPastaWin\InterfaceListagem\bin\Debug\DllPastaWin.xml
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\DllPastaWin\InterfaceListagem\obj\Debug\InterfaceListagem.csprojAssemblyReference.cache
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\DllPastaWin\InterfaceListagem\obj\Debug\InterfaceListagem.csproj.CopyComplete
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\DllPastaWin\InterfaceListagem\obj\Debug\InterfaceListagem.exe
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\DllPastaWin\InterfaceListagem\obj\Debug\InterfaceListagem.pdb

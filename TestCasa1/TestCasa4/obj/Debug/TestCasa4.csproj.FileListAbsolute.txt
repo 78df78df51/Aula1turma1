@@ -1,6 +1,0 @@
-C:\Users\danie\source\repos\TestCasa1\TestCasa4\bin\Debug\TestCasa4.exe.config
-C:\Users\danie\source\repos\TestCasa1\TestCasa4\bin\Debug\TestCasa4.exe
-C:\Users\danie\source\repos\TestCasa1\TestCasa4\bin\Debug\TestCasa4.pdb
-C:\Users\danie\source\repos\TestCasa1\TestCasa4\obj\Debug\TestCasa4.csproj.CoreCompileInputs.cache
-C:\Users\danie\source\repos\TestCasa1\TestCasa4\obj\Debug\TestCasa4.exe
-C:\Users\danie\source\repos\TestCasa1\TestCasa4\obj\Debug\TestCasa4.pdb

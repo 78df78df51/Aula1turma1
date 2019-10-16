@@ -1,0 +1,14 @@
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\SistemaDeCelular\CellDu\bin\Debug\CellDu.exe.config
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\SistemaDeCelular\CellDu\bin\Debug\CellDu.exe
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\SistemaDeCelular\CellDu\bin\Debug\CellDu.pdb
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\SistemaDeCelular\CellDu\bin\Debug\CatalogoCelulares.dll
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\SistemaDeCelular\CellDu\bin\Debug\EntityFramework.dll
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\SistemaDeCelular\CellDu\bin\Debug\CatalogoCelulares.pdb
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\SistemaDeCelular\CellDu\bin\Debug\CatalogoCelulares.dll.config
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\SistemaDeCelular\CellDu\bin\Debug\EntityFramework.xml
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\SistemaDeCelular\CellDu\obj\Debug\CellDu.csprojAssemblyReference.cache
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\SistemaDeCelular\CellDu\obj\Debug\CellDu.csproj.CopyComplete
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\SistemaDeCelular\CellDu\obj\Debug\CellDu.exe
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\SistemaDeCelular\CellDu\obj\Debug\CellDu.pdb
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\SistemaDeCelular\CellDu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\SistemaDeCelular\CellDu\bin\Debug\EntityFramework.SqlServer.xml

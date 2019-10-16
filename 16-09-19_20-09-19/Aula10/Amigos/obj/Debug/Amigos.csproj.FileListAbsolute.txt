@@ -1,0 +1,7 @@
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula10\Amigos\bin\Debug\Amigos.exe.config
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula10\Amigos\bin\Debug\Amigos.exe
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula10\Amigos\bin\Debug\Amigos.pdb
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula10\Amigos\obj\Debug\Amigos.csprojAssemblyReference.cache
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula10\Amigos\obj\Debug\Amigos.csproj.CoreCompileInputs.cache
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula10\Amigos\obj\Debug\Amigos.exe
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula10\Amigos\obj\Debug\Amigos.pdb

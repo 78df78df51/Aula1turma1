@@ -1,0 +1,6 @@
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\DllPastaWin\ListagemDePastas\bin\Debug\ListagemDePastas.exe.config
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\DllPastaWin\ListagemDePastas\bin\Debug\ListagemDePastas.exe
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\DllPastaWin\ListagemDePastas\bin\Debug\ListagemDePastas.pdb
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\DllPastaWin\ListagemDePastas\obj\Debug\ListagemDePastas.csprojAssemblyReference.cache
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\DllPastaWin\ListagemDePastas\obj\Debug\ListagemDePastas.exe
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\DllPastaWin\ListagemDePastas\obj\Debug\ListagemDePastas.pdb

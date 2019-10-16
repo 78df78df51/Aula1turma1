@@ -1,0 +1,4 @@
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula14SistemaDeRelatorioParaCarros\SistemaRelatorio\bin\Debug\SistemaRelatorio.dll
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula14SistemaDeRelatorioParaCarros\SistemaRelatorio\bin\Debug\SistemaRelatorio.pdb
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula14SistemaDeRelatorioParaCarros\SistemaRelatorio\obj\Debug\SistemaRelatorio.dll
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula14SistemaDeRelatorioParaCarros\SistemaRelatorio\obj\Debug\SistemaRelatorio.pdb

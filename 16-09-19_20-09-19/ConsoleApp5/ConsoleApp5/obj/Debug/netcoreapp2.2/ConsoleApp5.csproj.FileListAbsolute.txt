@@ -1,0 +1,11 @@
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp2.2\ConsoleApp5.csprojAssemblyReference.cache
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp2.2\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp2.2\ConsoleApp5.AssemblyInfoInputs.cache
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp2.2\ConsoleApp5.AssemblyInfo.cs
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp2.2\ConsoleApp5.deps.json
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp2.2\ConsoleApp5.runtimeconfig.json
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp2.2\ConsoleApp5.runtimeconfig.dev.json
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp2.2\ConsoleApp5.dll
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp2.2\ConsoleApp5.pdb
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp2.2\ConsoleApp5.dll
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp2.2\ConsoleApp5.pdb

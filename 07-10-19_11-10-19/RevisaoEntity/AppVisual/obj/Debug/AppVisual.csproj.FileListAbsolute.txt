@@ -1,0 +1,14 @@
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\RevisaoEntity\AppVisual\bin\Debug\AppVisual.exe.config
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\RevisaoEntity\AppVisual\bin\Debug\AppVisual.exe
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\RevisaoEntity\AppVisual\bin\Debug\AppVisual.pdb
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\RevisaoEntity\AppVisual\bin\Debug\EntityFramework.dll
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\RevisaoEntity\AppVisual\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\RevisaoEntity\AppVisual\bin\Debug\RevisandoEntity.dll
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\RevisaoEntity\AppVisual\bin\Debug\RevisandoEntity.pdb
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\RevisaoEntity\AppVisual\bin\Debug\RevisandoEntity.dll.config
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\RevisaoEntity\AppVisual\bin\Debug\EntityFramework.xml
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\RevisaoEntity\AppVisual\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\RevisaoEntity\AppVisual\obj\Debug\AppVisual.csprojAssemblyReference.cache
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\RevisaoEntity\AppVisual\obj\Debug\AppVisual.csproj.CopyComplete
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\RevisaoEntity\AppVisual\obj\Debug\AppVisual.exe
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\RevisaoEntity\AppVisual\obj\Debug\AppVisual.pdb

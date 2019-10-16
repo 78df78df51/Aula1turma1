@@ -1,0 +1,6 @@
+C:\Users\danie\source\repos\TestCasa1\TestCasa3\bin\Debug\TestCasa3.exe.config
+C:\Users\danie\source\repos\TestCasa1\TestCasa3\bin\Debug\TestCasa3.exe
+C:\Users\danie\source\repos\TestCasa1\TestCasa3\bin\Debug\TestCasa3.pdb
+C:\Users\danie\source\repos\TestCasa1\TestCasa3\obj\Debug\TestCasa3.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\TestCasa1\TestCasa3\obj\Debug\TestCasa3.exe
+C:\Users\danie\source\repos\TestCasa1\TestCasa3\obj\Debug\TestCasa3.pdb

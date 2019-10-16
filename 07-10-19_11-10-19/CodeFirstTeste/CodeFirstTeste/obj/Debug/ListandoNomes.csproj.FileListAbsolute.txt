@@ -1,0 +1,11 @@
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\CodeFirstTeste\CodeFirstTeste\bin\Debug\CodeFirstTeste.dll.config
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\CodeFirstTeste\CodeFirstTeste\bin\Debug\CodeFirstTeste.dll
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\CodeFirstTeste\CodeFirstTeste\bin\Debug\CodeFirstTeste.pdb
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\CodeFirstTeste\CodeFirstTeste\bin\Debug\EntityFramework.dll
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\CodeFirstTeste\CodeFirstTeste\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\CodeFirstTeste\CodeFirstTeste\bin\Debug\EntityFramework.xml
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\CodeFirstTeste\CodeFirstTeste\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\CodeFirstTeste\CodeFirstTeste\obj\Debug\ListandoNomes.csprojAssemblyReference.cache
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\CodeFirstTeste\CodeFirstTeste\obj\Debug\ListandoNomes.csproj.CopyComplete
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\CodeFirstTeste\CodeFirstTeste\obj\Debug\CodeFirstTeste.dll
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\CodeFirstTeste\CodeFirstTeste\obj\Debug\CodeFirstTeste.pdb

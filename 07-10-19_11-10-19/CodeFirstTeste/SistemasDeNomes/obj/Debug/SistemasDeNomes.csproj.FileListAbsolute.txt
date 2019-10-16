@@ -1,0 +1,14 @@
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\CodeFirstTeste\SistemasDeNomes\bin\Debug\SistemasDeNomes.exe.config
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\CodeFirstTeste\SistemasDeNomes\bin\Debug\SistemasDeNomes.exe
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\CodeFirstTeste\SistemasDeNomes\bin\Debug\SistemasDeNomes.pdb
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\CodeFirstTeste\SistemasDeNomes\bin\Debug\CodeFirstTeste.dll
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\CodeFirstTeste\SistemasDeNomes\bin\Debug\EntityFramework.dll
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\CodeFirstTeste\SistemasDeNomes\bin\Debug\CodeFirstTeste.pdb
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\CodeFirstTeste\SistemasDeNomes\bin\Debug\CodeFirstTeste.dll.config
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\CodeFirstTeste\SistemasDeNomes\bin\Debug\EntityFramework.xml
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\CodeFirstTeste\SistemasDeNomes\obj\Debug\SistemasDeNomes.csprojAssemblyReference.cache
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\CodeFirstTeste\SistemasDeNomes\obj\Debug\SistemasDeNomes.csproj.CopyComplete
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\CodeFirstTeste\SistemasDeNomes\obj\Debug\SistemasDeNomes.exe
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\CodeFirstTeste\SistemasDeNomes\obj\Debug\SistemasDeNomes.pdb
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\CodeFirstTeste\SistemasDeNomes\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\CodeFirstTeste\SistemasDeNomes\bin\Debug\EntityFramework.SqlServer.xml

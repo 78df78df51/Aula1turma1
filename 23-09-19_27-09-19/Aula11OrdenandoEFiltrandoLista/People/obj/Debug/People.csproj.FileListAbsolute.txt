@@ -1,0 +1,7 @@
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula11OrdenandoEFiltrandoLista\People\bin\Debug\People.exe.config
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula11OrdenandoEFiltrandoLista\People\bin\Debug\People.exe
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula11OrdenandoEFiltrandoLista\People\bin\Debug\People.pdb
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula11OrdenandoEFiltrandoLista\People\obj\Debug\People.csprojAssemblyReference.cache
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula11OrdenandoEFiltrandoLista\People\obj\Debug\People.csproj.CoreCompileInputs.cache
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula11OrdenandoEFiltrandoLista\People\obj\Debug\People.exe
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula11OrdenandoEFiltrandoLista\People\obj\Debug\People.pdb

@@ -1,7 +1,0 @@
-C:\Users\danie\source\repos\TestCasa1\TestCasa2\bin\Debug\TestCasa2.exe.config
-C:\Users\danie\source\repos\TestCasa1\TestCasa2\bin\Debug\TestCasa2.exe
-C:\Users\danie\source\repos\TestCasa1\TestCasa2\bin\Debug\TestCasa2.pdb
-C:\Users\danie\source\repos\TestCasa1\TestCasa2\obj\Debug\TestCasa2.csproj.CoreCompileInputs.cache
-C:\Users\danie\source\repos\TestCasa1\TestCasa2\obj\Debug\TestCasa2.exe
-C:\Users\danie\source\repos\TestCasa1\TestCasa2\obj\Debug\TestCasa2.pdb
-C:\Users\danie\source\repos\TestCasa1\TestCasa2\obj\Debug\TestCasa2.csprojAssemblyReference.cache

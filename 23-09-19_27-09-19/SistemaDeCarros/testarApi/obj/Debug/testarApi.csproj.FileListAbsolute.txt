@@ -1,0 +1,9 @@
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\SistemaDeCarros\testarApi\bin\Debug\testarApi.exe.config
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\SistemaDeCarros\testarApi\bin\Debug\testarApi.exe
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\SistemaDeCarros\testarApi\bin\Debug\testarApi.pdb
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\SistemaDeCarros\testarApi\bin\Debug\ListagemDeCarros.dll
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\SistemaDeCarros\testarApi\bin\Debug\ListagemDeCarros.xml
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\SistemaDeCarros\testarApi\obj\Debug\testarApi.csprojAssemblyReference.cache
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\SistemaDeCarros\testarApi\obj\Debug\testarApi.csproj.CopyComplete
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\SistemaDeCarros\testarApi\obj\Debug\testarApi.exe
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\SistemaDeCarros\testarApi\obj\Debug\testarApi.pdb

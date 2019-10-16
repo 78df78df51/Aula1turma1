@@ -1,0 +1,10 @@
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Entity2\TesteEntity\bin\Debug\TesteEntity.dll.config
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Entity2\TesteEntity\bin\Debug\TesteEntity.dll
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Entity2\TesteEntity\bin\Debug\TesteEntity.pdb
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Entity2\TesteEntity\bin\Debug\EntityFramework.dll
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Entity2\TesteEntity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Entity2\TesteEntity\bin\Debug\EntityFramework.xml
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Entity2\TesteEntity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Entity2\TesteEntity\obj\Debug\TesteEntity.csproj.CopyComplete
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Entity2\TesteEntity\obj\Debug\TesteEntity.dll
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Entity2\TesteEntity\obj\Debug\TesteEntity.pdb

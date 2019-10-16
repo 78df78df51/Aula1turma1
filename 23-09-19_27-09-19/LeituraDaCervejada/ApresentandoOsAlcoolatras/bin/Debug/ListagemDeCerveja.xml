@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ListagemDeCerveja</name>
+    </assembly>
+    <members>
+        <member name="M:ListagemDeCerveja.Controller.CervejaController.GetCervejas">
+            <summary>
+            Retorna a lista de Cervejas.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ListagemDeCerveja.Controller.CervejaController.CadastrarCerveja(ListagemDeCerveja.Model.Cerveja)">
+            <summary>
+            Adiciona uma nova cerveja na lista, incrementando automaticamente o ID.
+            </summary>
+            <param name="cerveja">Recebe os valores informados.</param>
+        </member>
+        <member name="M:ListagemDeCerveja.Controller.CervejaController.ValorTotalDaLista">
+            <summary>
+            Retorna a  soma dos valores das cervejas.
+            </summary>
+        </member>
+        <member name="M:ListagemDeCerveja.Controller.CervejaController.ValorTotalEmLitros">
+            <summary>
+            Retorna o valor em litros das cervejas.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:ListagemDeCerveja.Model.SistemaCervejaContext.ListaCerveja">
+            <summary>
+            Cria a lista de Cervejas.
+            </summary>
+        </member>
+        <member name="M:ListagemDeCerveja.Model.SistemaCervejaContext.#ctor">
+            <summary>
+            Adiciona os dados na lista.
+            </summary>
+        </member>
+    </members>
+</doc>

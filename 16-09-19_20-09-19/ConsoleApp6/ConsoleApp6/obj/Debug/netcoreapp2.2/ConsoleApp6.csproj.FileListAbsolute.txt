@@ -1,0 +1,11 @@
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\ConsoleApp6\ConsoleApp6\bin\Debug\netcoreapp2.2\ConsoleApp6.deps.json
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\ConsoleApp6\ConsoleApp6\bin\Debug\netcoreapp2.2\ConsoleApp6.runtimeconfig.json
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\ConsoleApp6\ConsoleApp6\bin\Debug\netcoreapp2.2\ConsoleApp6.runtimeconfig.dev.json
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\ConsoleApp6\ConsoleApp6\bin\Debug\netcoreapp2.2\ConsoleApp6.dll
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\ConsoleApp6\ConsoleApp6\bin\Debug\netcoreapp2.2\ConsoleApp6.pdb
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp2.2\ConsoleApp6.csprojAssemblyReference.cache
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp2.2\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp2.2\ConsoleApp6.AssemblyInfoInputs.cache
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp2.2\ConsoleApp6.AssemblyInfo.cs
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp2.2\ConsoleApp6.dll
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp2.2\ConsoleApp6.pdb

@@ -1,0 +1,9 @@
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Aula15SistemaDeCerveja\Executar\bin\Debug\Executar.exe.config
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Aula15SistemaDeCerveja\Executar\bin\Debug\Executar.exe
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Aula15SistemaDeCerveja\Executar\bin\Debug\Executar.pdb
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Aula15SistemaDeCerveja\Executar\bin\Debug\ListagemDeCerveja.dll
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Aula15SistemaDeCerveja\Executar\bin\Debug\ListagemDeCerveja.pdb
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Aula15SistemaDeCerveja\Executar\obj\Debug\Executar.csprojAssemblyReference.cache
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Aula15SistemaDeCerveja\Executar\obj\Debug\Executar.csproj.CopyComplete
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Aula15SistemaDeCerveja\Executar\obj\Debug\Executar.exe
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Aula15SistemaDeCerveja\Executar\obj\Debug\Executar.pdb

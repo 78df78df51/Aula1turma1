@@ -1,0 +1,52 @@
+body {
+	background-image: url('https://conteudo.imguol.com.br/blogs/88/files/2018/07/4322886.jpg-r_1920_1080-f_jpg-q_x-xxyxx-1024x660.jpg');
+	background-size:cover;
+}
+
+p {
+	font-size: 30px;
+	color: #066a75;
+	padding: 2px 0 10px 0;
+	font-family: Arial,sans-serif;
+	font-weight: bold;
+	text-align: center;
+	padding-bottom: 30px;
+	width: 300px;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	margin-left: 52px;
+	width: 100% !important;
+	cursor: pointer;
+	background: rgb(61, 157, 179);
+	padding: 8px 5px;
+	color: #fff;
+	font-size: 20px;
+	border: 1px solid #fff;
+	margin-bottom: 10px;
+	text-shadow: 0 1px 1px #333;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	transition: all 0.2s linear;
+}
+
+input, textarea {
+	/* Para certificar-se que todos os campos de texto têm as mesmas configurações de fonte. Por padrão, textareas ter uma fonte monospace*/
+	font: 1em sans-serif;
+	/* Para dar o mesmo tamanho a todos os campo de texto */
+	width: 352px;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	margin-left: 52px;
+	/* Para harmonizar o look & feel das bordas nos campos de texto*/
+	border: 1px solid #999;
+}
+.col-3 time-now {
+	padding: 2px 00% 00px 00%;
+	margin: 59px 46px 57px 23px;
+	background: #f7f7f7;
+	border: 1px solid rgba(147, 184, 189,0.8);
+}
+.meio{
+	margin-top: 150px;
+
+}

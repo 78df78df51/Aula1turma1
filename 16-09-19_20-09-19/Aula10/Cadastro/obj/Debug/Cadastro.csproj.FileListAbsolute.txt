@@ -1,0 +1,7 @@
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula10\Cadastro\bin\Debug\Cadastro.exe.config
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula10\Cadastro\bin\Debug\Cadastro.exe
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula10\Cadastro\bin\Debug\Cadastro.pdb
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula10\Cadastro\obj\Debug\Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula10\Cadastro\obj\Debug\Cadastro.exe
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula10\Cadastro\obj\Debug\Cadastro.pdb
+C:\Users\900076\source\repos\78df78df51\Aula1turma1\Aula10\Cadastro\obj\Debug\Cadastro.csprojAssemblyReference.cache

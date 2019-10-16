@@ -1,0 +1,14 @@
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Aula10SolucaoParaLucacaoDeLivros\InterfaceBiblioteca\bin\Debug\InterfaceBiblioteca.exe.config
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Aula10SolucaoParaLucacaoDeLivros\InterfaceBiblioteca\bin\Debug\InterfaceBiblioteca.exe
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Aula10SolucaoParaLucacaoDeLivros\InterfaceBiblioteca\bin\Debug\InterfaceBiblioteca.pdb
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Aula10SolucaoParaLucacaoDeLivros\InterfaceBiblioteca\bin\Debug\LocacaoBiblioteca.dll
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Aula10SolucaoParaLucacaoDeLivros\InterfaceBiblioteca\bin\Debug\LocacaoBiblioteca.pdb
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Aula10SolucaoParaLucacaoDeLivros\InterfaceBiblioteca\obj\Debug\InterfaceBiblioteca.csprojAssemblyReference.cache
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Aula10SolucaoParaLucacaoDeLivros\InterfaceBiblioteca\obj\Debug\InterfaceBiblioteca.csproj.CopyComplete
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Aula10SolucaoParaLucacaoDeLivros\InterfaceBiblioteca\obj\Debug\InterfaceBiblioteca.exe
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Aula10SolucaoParaLucacaoDeLivros\InterfaceBiblioteca\obj\Debug\InterfaceBiblioteca.pdb
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Aula10SolucaoParaLucacaoDeLivros\InterfaceBiblioteca\bin\Debug\EntityFramework.dll
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Aula10SolucaoParaLucacaoDeLivros\InterfaceBiblioteca\bin\Debug\LocacaoBiblioteca.dll.config
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Aula10SolucaoParaLucacaoDeLivros\InterfaceBiblioteca\bin\Debug\EntityFramework.xml
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Aula10SolucaoParaLucacaoDeLivros\InterfaceBiblioteca\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Aula10SolucaoParaLucacaoDeLivros\InterfaceBiblioteca\bin\Debug\EntityFramework.SqlServer.xml
