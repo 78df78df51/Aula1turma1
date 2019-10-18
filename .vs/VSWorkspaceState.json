@@ -1,16 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Web\\iniciando web",
-    "\\Web\\PrimeiroWebSite\\css",
-    "\\Web\\PrimeiroWebSite\\js",
-    "\\Web\\SegundoWebSite",
+    "\\Web\\exercicio1\\css",
+    "\\Web\\exercicio1\\js",
+    "\\Web\\exercicio2",
+    "\\Web\\exercicio2\\css",
+    "\\Web\\exercicio2\\js",
     "\\Web\\SegundoWebSite\\css",
     "\\Web\\SegundoWebSite\\js",
-    "\\Web\\TerceiroWebSite",
     "\\Web\\TerceiroWebSite\\css",
     "\\Web\\TerceiroWebSite\\js"
   ],
-  "SelectedNode": "\\07-10-19_11-10-19",
+  "SelectedNode": "\\Web",
   "PreviewInSolutionExplorer": false
 }
