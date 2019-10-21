@@ -1,0 +1,21 @@
+body {
+	height: 100vh;
+	background-image: url('https://image.freepik.com/vetores-gratis/posicao-mulher-carro-com-parque-cidade-e-ponteiro-ligado-mapa_1262-19377.jpg');
+	background-size: cover;
+	width: 1000px;
+	height: 1000px;
+}
+h1 {
+	font-size: 48px;
+	color: #ae3f3f;
+	padding: 2px 0 10px 0;
+	font-family: Arial,sans-serif;
+	font-weight: bold;
+	text-align: center;
+	
+	padding-bottom: 30px;
+}
+.row {
+	flex-wrap: wrap;
+	margin-right: -113px;
+}

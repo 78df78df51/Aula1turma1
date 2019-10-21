@@ -1,20 +1,21 @@
 /* Ao carregar nosso site por completo executa o conteudo do $(document).ready()*/
-var MeuUsuario = { nome: "Felipe", Idade: 19, raca: "bbvvv" };
+var MyBike = { nome: "Felipe", Idade: 19,cor:"amarelo", raca: "bbvvv" };
 
 
 $(document).ready(
     function () {
         /* Carrego defaul name */
-        $('input[name="nomeusuario"]').val(MeuUsuario.nome);
-
+        $('input[name="nomeusuario"]').val(MyBike.nome);
+        
 
         $('input[name="bntsalvar"]').click(function () {
-            MeuUsuario.raca = $('input[raca="Raça"]').val();
-            MeuUsuario.Idade = $('input[Idade="Idade"]').val();
-            MeuUsuario.nome = $('input[name="nome"]').val();
+            MyBike.raca = $('input[name="raca"]').val();
+            MyBike.Idade = $('input[name="Idade"]').val();
+            MyBike.Cor = $('input[name="cor"]').val();
+            MyBike.nome = $('input[name="nome"]').val();
         });
         $('input[name="bntmostrar"]').click(function () {
-            alert(MeuUsuario.nome + " " + MeuUsuario.raca + MeuUsuario.Idade);
+            alert(MyBike.nome + " " + MyBike.raca + " " + MyBike.Idade + " " + MyBike.cor);
           
         });
 
