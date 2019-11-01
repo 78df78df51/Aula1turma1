@@ -1,16 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Web\\exercicio1\\css",
-    "\\Web\\exercicio1\\js",
-    "\\Web\\exercicio2",
-    "\\Web\\exercicio2\\css",
-    "\\Web\\exercicio2\\js",
-    "\\Web\\SegundoWebSite\\css",
-    "\\Web\\SegundoWebSite\\js",
-    "\\Web\\TerceiroWebSite\\css",
-    "\\Web\\TerceiroWebSite\\js"
+    "\\SistemaPessoa",
+    "\\WEBPost"
   ],
-  "SelectedNode": "\\Web",
+  "SelectedNode": "\\WEBPost\\WEBPost.sln",
   "PreviewInSolutionExplorer": false
 }

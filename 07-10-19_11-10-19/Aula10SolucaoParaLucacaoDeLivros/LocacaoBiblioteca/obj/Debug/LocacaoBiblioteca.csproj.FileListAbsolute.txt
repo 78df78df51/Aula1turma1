@@ -9,3 +9,14 @@ C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Aula10SolucaoParaLucacaoDeLi
 C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Aula10SolucaoParaLucacaoDeLivros\LocacaoBiblioteca\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Aula10SolucaoParaLucacaoDeLivros\LocacaoBiblioteca\obj\Debug\LocacaoBiblioteca.csproj.CopyComplete
 C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\Aula10SolucaoParaLucacaoDeLivros\LocacaoBiblioteca\obj\Debug\LocacaoBiblioteca.csprojAssemblyReference.cache
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\07-10-19_11-10-19\Aula10SolucaoParaLucacaoDeLivros\LocacaoBiblioteca\bin\Debug\LocacaoBiblioteca.dll.config
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\07-10-19_11-10-19\Aula10SolucaoParaLucacaoDeLivros\LocacaoBiblioteca\bin\Debug\LocacaoBiblioteca.dll
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\07-10-19_11-10-19\Aula10SolucaoParaLucacaoDeLivros\LocacaoBiblioteca\bin\Debug\LocacaoBiblioteca.pdb
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\07-10-19_11-10-19\Aula10SolucaoParaLucacaoDeLivros\LocacaoBiblioteca\bin\Debug\EntityFramework.dll
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\07-10-19_11-10-19\Aula10SolucaoParaLucacaoDeLivros\LocacaoBiblioteca\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\07-10-19_11-10-19\Aula10SolucaoParaLucacaoDeLivros\LocacaoBiblioteca\bin\Debug\EntityFramework.xml
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\07-10-19_11-10-19\Aula10SolucaoParaLucacaoDeLivros\LocacaoBiblioteca\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\07-10-19_11-10-19\Aula10SolucaoParaLucacaoDeLivros\LocacaoBiblioteca\obj\Debug\LocacaoBiblioteca.csprojAssemblyReference.cache
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\07-10-19_11-10-19\Aula10SolucaoParaLucacaoDeLivros\LocacaoBiblioteca\obj\Debug\LocacaoBiblioteca.csproj.CopyComplete
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\07-10-19_11-10-19\Aula10SolucaoParaLucacaoDeLivros\LocacaoBiblioteca\obj\Debug\LocacaoBiblioteca.dll
+C:\Users\900076\Source\Repos\78df78df51\Aula1turma1\07-10-19_11-10-19\Aula10SolucaoParaLucacaoDeLivros\LocacaoBiblioteca\obj\Debug\LocacaoBiblioteca.pdb

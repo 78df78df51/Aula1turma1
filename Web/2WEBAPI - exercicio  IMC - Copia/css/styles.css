@@ -1,0 +1,20 @@
+body {
+	height: 96vh;
+	background-image: url('https://image.freepik.com/fotos-gratis/formula-da-taxa-de-formula-do-indice-de-massa-corporal-do-imc-em-um-bloco-de-notas_1391-1753.jpg');
+	background-size: cover;
+	width: 1000px;
+	height: 388px;
+}
+h1 {
+	font-size: 36px;
+	color: #006400;
+	padding: 2px 0 10px 0;
+	font-family: Arial,sans-serif;
+	font-weight: bold;
+	text-align: center;
+	padding-bottom: 0px;
+}
+.row {
+	flex-wrap: wrap;
+	margin-right: -113px;
+}

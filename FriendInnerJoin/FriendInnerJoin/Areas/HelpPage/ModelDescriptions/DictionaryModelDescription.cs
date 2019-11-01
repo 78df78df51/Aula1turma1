@@ -1,0 +1,6 @@
+namespace FriendInnerJoin.Areas.HelpPage.ModelDescriptions
+{
+    public class DictionaryModelDescription : KeyValuePairModelDescription
+    {
+    }
+}

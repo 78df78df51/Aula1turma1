@@ -1,0 +1,6 @@
+namespace WebApiMigration.Areas.HelpPage.ModelDescriptions
+{
+    public class DictionaryModelDescription : KeyValuePairModelDescription
+    {
+    }
+}
