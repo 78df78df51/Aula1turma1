@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\SistemaPessoa",
-    "\\WEBPost"
+    "\\WebApiNetCore"
   ],
-  "SelectedNode": "\\WEBPost\\WEBPost.sln",
+  "SelectedNode": "\\WebApiNetCore\\WebApiNetCore.sln",
   "PreviewInSolutionExplorer": false
 }
